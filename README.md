@@ -16,6 +16,9 @@ Skills
  PYTHON
  DJANGO
 
+
+<a href="https://app.daily.dev/Arushay"><img src="https://api.daily.dev/devcards/35332cc6965546409a0c44445ee55910.png?r=l30" width="400" alt="Arushay's Dev Card"/></a>
+
 <!---
 Arushay/Arushay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
