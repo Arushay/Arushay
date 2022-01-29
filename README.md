@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arushay
-- 👀 I’m interested in python also in javascript.
-- 🌱 I’m currently learning react js
-- 💞️ I’m looking to collaborate on python
+- 👀 I’m interested in javascript.
+- 🌱 I’m currently learning react js & NEXT js.
+- 💞️ I’m looking to contribute in open source projects.
 - 📫 How to reach me piecemaster780@gmail.com
 
 
