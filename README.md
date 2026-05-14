@@ -1,25 +1,19 @@
-- 👋 Hi, I’m @Arushay
-- 👀 I’m interested in javascript.
-- 🌱 I’m currently learning react js & NEXT js.
-- 💞️ I’m looking to contribute in open source projects.
-- 📫 How to reach me piecemaster780@gmail.com
+Ik ben een beginnende back-end developer met focus op JavaScript. Na een aantal jaren zorg voor mijn jonge kinderen, ben ik nu klaar om mijn carrière in de IT te starten in Nederland.
 
+Wat mij drijft:
+- Back-end logica en API's bouwen
+- Problemen oplossen met code
+- Leren van nieuwe technologieën
 
+Front-end design trekt mij minder. Ik kies bewust voor back-end omdat ik hou van datastructuren, algoritmes en het laten werken van systemen achter de schermen.
 
-Skills
-🦓HTML
-💫CSS
-🚸JAVASCRIPT
-🌊TAILWINDCSS
-📦BOOTSTRAP
-🥷 REACT
- PYTHON
- DJANGO
+Mijn technische skills:
+- JavaScript (ES6+)
+- Node.js / Express (lerende)
+- REST APIs
+- Git & GitHub
+- MongoDB (basis)
 
+Ik woon in Rotterdam, spreek Nederlands (B1, bezig met inburgering) en zoek een junior functie voor 32 uur per week.
 
-<a href="https://app.daily.dev/Arushay"><img src="https://api.daily.dev/devcards/35332cc6965546409a0c44445ee55910.png?r=l30" width="400" alt="Arushay's Dev Card"/></a>
-
-<!---
-Arushay/Arushay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📌 Mijn portfolio: github.com/Arushay
