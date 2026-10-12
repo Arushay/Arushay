@@ -1,97 +1,73 @@
-🚀 About Me
+# Hi, I'm Arosha 👋
 
-I am a junior back-end developer with a strong passion for building scalable, well-structured APIs and server-side logic. I enjoy working behind the scenes—architecting systems, optimizing performance, and solving complex problems with clean, maintainable code.
+**Aspiring back-end developer** based in Rotterdam, Netherlands.  
+I build full-stack projects with **Node.js, Express, React, and PostgreSQL** — and I'm currently looking for a junior developer role or internship.
 
-My focus is on the back-end, where I can apply my analytical mindset to data structures, algorithms, and system design.
-
-I am currently expanding my skills in Node.js, Express, and PostgreSQL, and I'm eager to grow in a collaborative, professional environment.
-
----
-
-🛠️ Tech Stack
-
-Languages & Runtime
-
-· JavaScript (ES6+)
-· Node.js
-
-Frameworks & Libraries
-
-· Express.js
-· REST API design
-· bcrypt (authentication)
-· JWT (token-based auth)
-
-Databases
-
-· MongoDB (basic)
-· PostgreSQL (learning)
-
-Tools & Version Control
-
-· Git & GitHub
-· npm
-· Thunder Client / Postman
-· Environment variables (dotenv)
+🔗 **Portfolio:** [arushay-portfolio.vercel.app](https://arushay-portfolio.vercel.app)
 
 ---
 
-📌 What I’m Learning Right Now
+## 🛠️ Tech Stack
 
-· Authentication & Authorization with JWT and bcrypt
-· PostgreSQL for relational data
-· Deployment with Render / Railway
-· Writing clean, testable code
+**Languages & Runtime**
+- JavaScript (ES6+), Node.js
 
----
+**Frameworks & Libraries**
+- Express.js · React · Tailwind CSS
+- JWT (auth) · bcrypt (password hashing)
 
-🎯 Current Goals
+**Databases**
+- PostgreSQL · MongoDB (basic)
 
-· Land my first junior back-end developer role (32 hours/week)
-· Continue building real-world projects using the MERN stack and beyond
-· Deepen my understanding of databases, security, and system architecture
-· Contribute to open-source projects and learn from experienced developers
-
----
-
-📍 Location
-
-Rotterdam, Netherlands
-🇳🇱 Dutch B1 (inburgering in progress)
-🇬🇧 English (professional working proficiency)
+**Tools**
+- Git & GitHub · Postman · Vite · Vercel · dotenv
 
 ---
 
-📫 Let's Connect
+## 📂 Featured Projects
 
-https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white
-📧 piecemaster780@gmail.com
+### 🐾 Paw-some Learning Missions
+Full-stack educational game for toddlers — daily missions, drag-and-drop puzzles, reward system.
+**Tech:** React, Tailwind, Express, PostgreSQL, JWT
 
----
+### ✅ PurpleTodo
+Full-stack task manager with auth, CRUD, due dates, priorities, categories, search & filters.
+**Tech:** Node.js, Express, PostgreSQL, JWT, bcrypt
 
-📂 Projects
-
-PurpleTodo – Full-Stack Task Manager
-
-· Tech: HTML, CSS, JavaScript, Express, PostgreSQL (in progress)
-· Features: CRUD operations, due dates, priorities, categories, search & filters, authentication
-· Focus: Back-end API design, authentication with bcrypt & JWT, user-specific data
-
----
-
-✨ Why Back-end?
-
-I love building systems that work reliably behind the scenes.
-Understanding how data flows, how to secure it, and how to make it accessible through clean APIs—that's what drives me.
-
-“I don’t just write code. I build solutions that make things work.”
+### 🌐 Portfolio Website
+Live React portfolio with project showcase and contact.
+**Tech:** React, Tailwind, Vite, Vercel  
+**Live:** [arushay-portfolio.vercel.app](https://arushay-portfolio.vercel.app)
 
 ---
 
-🤝 Open to Collaboration
+## 📌 Currently Learning
+- Authentication & authorization (JWT, bcrypt)
+- PostgreSQL for relational data
+- Deployment and DevOps basics
 
-I am actively looking for junior back-end developer roles in the Rotterdam area or remote.
-I value clear communication, thoughtful code, and continuous learning.
+---
 
-Feel free to reach out—I’d love to connect!
+## 🎯 Current Goals
+- Land my first junior developer role (32 hours/week) or internship
+- Build more real-world full-stack projects
+- Contribute to open-source
+
+---
+
+## 📍 Location & Languages
+- Rotterdam, Netherlands 🇳🇱
+- Dutch: B1 (working toward B2)
+- English: Professional working proficiency
+- Urdu/Punjabi: Native
+
+---
+
+## 📫 Let's Connect
+- **Portfolio:** [arushay-portfolio.vercel.app](https://arushay-portfolio.vercel.app)
+- **LinkedIn:** [linkedin.com/in/arosha-ayman](https://www.linkedin.com/in/arosha-ayman)
+- **Email:** dinayman562@gmail.com
+
+---
+
+*"I don't just write code. I build solutions that make things work."*
